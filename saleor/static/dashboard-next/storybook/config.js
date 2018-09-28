@@ -39,6 +39,10 @@ function loadStories() {
   require("./stories/categories/CategoryDetailsPage");
   require("./stories/categories/CategoryEditPage");
   require("./stories/categories/CategoryProducts");
+  require("./stories/categories/CategoryGeneralInfo");
+  require("./stories/categories/CategoryBackgroundImage");
+  require("./stories/categories/CategorySubcategories");
+
 
   // Collections
   require("./stories/collections/CollectionDetailsPage");

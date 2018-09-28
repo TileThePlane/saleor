@@ -41,6 +41,15 @@ const products = [
       name: "T-Shirt"
     },
     thumbnailUrl: placeholder
+  },
+  {
+    id: "UHJvZHVjdDok",
+    name: "KON STY TU CJA",
+    productType: {
+      id: "1",
+      name: "T-Shirt"
+    },
+    thumbnailUrl: placeholder
   }
 ];
 
